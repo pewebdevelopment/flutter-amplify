@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nafzen-dev-90315-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596109967064:role/amplify-nafzen-dev-90315-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596109967064:role/amplify-nafzen-dev-90315-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-nafzen-dev-90315-deployment",
+      "UnauthRoleName": "amplify-nafzen-dev-90315-unauthRole",
+      "StackName": "amplify-nafzen-dev-90315",
+      "StackId": "arn:aws:cloudformation:ap-south-1:596109967064:stack/amplify-nafzen-dev-90315/ab06f4e0-9f85-11ed-b7da-0ac5d923fac6",
+      "AmplifyAppId": "d18ucpwrjxnezc"
+    },
+    "categories": {
+      "auth": {
+        "NAFZen": {}
+      },
+      "storage": {
+        "s3nafzenstorage59214087": {}
+      }
+    }
+  }
+}
